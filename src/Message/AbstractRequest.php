@@ -1,6 +1,5 @@
 <?php
 
-use Log;
 namespace Omnipay\BluePay\Message;
 
 /**
